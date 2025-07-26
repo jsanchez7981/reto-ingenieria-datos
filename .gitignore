@@ -1,0 +1,8 @@
+# Ignora entornos, archivos temporales y CSV de datos
+venv/
+__pycache__/
+*.pyc
+*.csv
+estadisticas.json
+.env
+*.zip
