@@ -117,7 +117,7 @@ SELECT
 FROM transactions;
 ```
 
-## 📦 ¿Cómo ejecutar?
+## 📦 Como ejecutar
 
 Con entorno activado y archivos CSV en la carpeta `data/`:
 
