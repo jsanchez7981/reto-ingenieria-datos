@@ -134,4 +134,4 @@ python pipeline/main.py
 
 ## 🔚 Créditos
 
-Desarrollado por Jimmy Ricardo Sánchez Romero como parte de un reto de ingeniería de datos para PRAGMA — Chapter de Data, Data Rangers.
+Desarrollado por Jimmy Ricardo Sánchez Romero como parte de un reto de ingeniería de datos para PRAGMA.
